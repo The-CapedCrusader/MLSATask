@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "",
   linkedIn: "tanvir-mahmud-thebatman",
   microsoft: "",
-  twitter: "",
+  twitter: "tanvirmahmud007",
   youTube: "",
 };
 
