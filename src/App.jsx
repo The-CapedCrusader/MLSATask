@@ -27,7 +27,7 @@ const siteProps = {
   name: "Tanvir Mahmud",
   title: "Tech enthusiast: AI, ML, Data Science. Eager to innovate & contribute.",
   email: "6209tanvir@gmail.com",
-  gitHub: "",
+  gitHub: "The-CapedCrusader",
   instagram: "",
   linkedIn: "",
   microsoft: "",
