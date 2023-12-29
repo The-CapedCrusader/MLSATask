@@ -9,7 +9,7 @@
  */
 
 import React from "react";
-import image from "../images/robo.jpg";
+import image from "../images/sajed.jpg";
 
 /**
  * Project list
