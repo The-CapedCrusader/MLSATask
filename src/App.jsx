@@ -29,7 +29,7 @@ const siteProps = {
   email: "6209tanvir@gmail.com",
   gitHub: "The-CapedCrusader",
   instagram: "",
-  linkedIn: "",
+  linkedIn: "tanvir-mahmud-thebatman",
   microsoft: "",
   twitter: "",
   youTube: "",
