@@ -9,7 +9,7 @@
  */
 
 import React from "react";
-import image from "../images/design-desk.jpeg";
+import image from "../images/robo.jpg";
 
 /**
  * Project list
@@ -19,28 +19,28 @@ import image from "../images/design-desk.jpeg";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "How can you get started with Competitive Programming?",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Competitive Programming is very crucial for the peoplw who want to get into MAANG. This article will help you to get started with CP.",
+    url: "https://docs.google.com/document/d/15aFsMimOysHHEa8BI08nCCDoDcUZtDa1F8xM_WlJBEM/edit?usp=sharing",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My competitive programming journey",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "From this you'll know about my journey of competitive programming and how I got into it.",
+    url: "https://docs.google.com/document/d/1s2R_1WCKXhhQa7z_KdpIz5WW6Y6L_piciFDsPNJoTzg/edit?usp=sharing",
   },
   {
-    title: "My Resume Site",
+    title: "My ICPC journey",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "From this you'll know about my journey of ICPC and how I got into it.",
+    url: "https://icpc.global/ICPCID/9B1CKSAR1Z6V",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My AI journey",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "From this you'll know about my journey of AI and how I got into it.",
+    url: "https://www.coursera.org/account/accomplishments/certificate/NN9CUP8AXNP3",
   },
 ];
 

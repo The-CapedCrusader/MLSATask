@@ -21,18 +21,18 @@ import image from "../images/mosaic.svg";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Currently, I am pursuing a Bachelor of Science (BSc) degree in Computer Science and Engineering at Independent University, Bangladesh.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Problem solver",
+  "Machine Learning enthusiast",
+  "Data Science enthusiast",
+  "Game development",
+  "App development",
   "Graphic design",
 ];
 
@@ -42,7 +42,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "An aspiring Computer Science and Engineering Student Eager to Explore and Contribute to the World of Technology.";
 
 const About = () => {
   return (
